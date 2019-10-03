@@ -12,7 +12,7 @@ Include the following requirements:
 * Give the option for a player to play against the computer. 
 * Print the current state of the game after each turn.
 
-This question is 50 points (25 points for quality & 25 points for output).
+This question is 100 points (50 points for quality & 50 points for output).
 
 Bonus (+10 for each): 
 * Extend the game so that the user can specify the size of board that they want to play on (nxm).
