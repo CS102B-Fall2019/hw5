@@ -1,11 +1,11 @@
 # CS102A - HW#5
 
-Due 10/13/18 at 11:59PM.  
-Late submissions are subject to a 10% late penalty.
+Due 10/19/19 at 11:59PM.  
+Late submissions are subject to a 20% late penalty.
 
 ## Reading
 The C Programming Language, 2nd Edition - Kerninghan & Ritchie  
-Chapter 1.2, 1.3, 1.5, 1.6, 1.7, 3.4, 3.5, 3.6, 3.7, 3.8, 4.1, 4.2
+Chapter 1.10, 4.3-4.11
 
 ## Instructions
 
@@ -14,7 +14,7 @@ You may work individually or in a pair for all assignments. If you do so, make s
 For each question, you will be submitting the homework via Github pull requests, just like how the industry submits code for review. 
 
 Please follow the instructions carefully. Note: failure to do so will result in a reduction of 10% of this homework grade. If you make a mistake, you can always delete the entire repo and try again (but of course, save your code).  
-1. Go to [https://classroom.github.com/g/elzUwVwR](https://classroom.github.com/g/elzUwVwR).  
+1. Go to [https://classroom.github.com/g/jjAMrtM7](https://classroom.github.com/g/jjAMrtM7).  
 2. Create a team (individual or a pair).  
 3. Clone the repository to your unix environment and create a separate submission branch. If you're working in a pair, you may work on the same branch or on separate branches. But when submitting your homework, please consolidate your submission into 1 branch.
 4. Push your submission branch to the repo.
